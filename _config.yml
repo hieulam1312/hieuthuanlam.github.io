@@ -94,9 +94,9 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Ho Chi Minh, Vietnam
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hieuthuanlam"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/hieuthuanlam"
 
 
 
