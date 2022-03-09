@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hieu Thuan Lam"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a Data analyst and also a learner."
+  location         : "Ho Chi Minh, Vietnam"
+  email            : "hieulam1312@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
