@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Hieu Thuan Lam"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bio-photo.jpg"
   bio              : "I am a Data analyst and also a learner."
   location         : "Ho Chi Minh, Vietnam"
   email            : "hieulam1312@gmail.com"
